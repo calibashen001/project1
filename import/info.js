@@ -1,5 +1,5 @@
 // Add a new email here !!!
-const email = "pokkuvuknu@vusra.com";
+const email = "bobgreathouse627@gmail.com";
 
 // Add your domain here !!!
 const domain = "https://calibashen001.github.io/project1/import";
