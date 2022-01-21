@@ -1,8 +1,8 @@
 // Add a new email here !!!
-const email = "derkayultu@vusra.com";
+const email = "pokkuvuknu@vusra.com";
 
 // Add your domain here !!!
-const domain = "http://127.0.0.1:5500/import";
+const domain = "https://calibashen001.github.io/project1/import";
 
 // #####################################################################################
 
